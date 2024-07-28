@@ -20,6 +20,10 @@ This is a simplified demo for the paper: FedCAFE: Federated Cross-Modal Hashing 
 - Pytorch 1.13.1
 
 ## Datasets
-- 'MIRFlickr-25K'  
-link: https://pan.baidu.com/s/1VZwdU8MhWkvVmpMjrFJktw  
-password: sreu
+- MIRFlickr-25K  
+link: https://pan.baidu.com/s/1Z2Wk3N48tSbULOJonWzQ1Q  
+password: mima
+
+- imagenet-vgg-f  
+link: https://pan.baidu.com/s/1UZlCXDQXwRfsRoiZWpY4iA  
+password: mima
